@@ -18,6 +18,30 @@ int main() {
     // Sugestão: Utilize a função printf para exibir as informações das cartas cadastradas de forma clara e organizada.
     // Exiba os valores inseridos para cada atributo da cidade, um por linha.
 
+    /*
+    Serão usados os dados para cartas fornecidos no texto do desafio:
+    
+    Carta 1:
+
+        Estado: A
+        Código: A01
+        Nome da Cidade: SãoPaulo
+        População: 12325000
+        Área: 1521.11 km²
+        PIB: 699.28 bilhões de reais
+        Número de Pontos Turísticos: 50
+
+    Carta 2:
+
+        Estado: B
+        Código: B02
+        Nome da Cidade: RioDeJaneiro
+        População: 6748000
+        Área: 1200.25 km²
+        PIB: 300.50 bilhões de reais
+        Número de Pontos Turísticos: 30    
+    */
+
 
     //declaração das variáveis carta 1:
 
